@@ -1,6 +1,6 @@
 {
   "name": "@iqorlobanov/react-native-toast",
-  "version": "0.4.2",
+  "version": "0.1.0",
   "description": "test",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -38,10 +38,14 @@
   },
   "keywords": [
     "react-native",
-    "ios",
-    "android"
+    "toast",
+    "react-native-toast",
+    "animated-toast"
   ],
-  "repository": "https://github.com/iqorlobanov/react-native-toast",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iqorlobanov/react-native-toast"
+  },
   "author": "Igor Lobanov <iqorlobanov@gmail.com> (https://github.com/iqorlobanov)",
   "license": "MIT",
   "bugs": {
