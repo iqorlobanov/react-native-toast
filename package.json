@@ -42,10 +42,7 @@
     "react-native-toast",
     "animated-toast"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/iqorlobanov/react-native-toast"
-  },
+  "repository": "https://github.com/iqorlobanov/react-native-toast",
   "author": "Igor Lobanov <iqorlobanov@gmail.com> (https://github.com/iqorlobanov)",
   "license": "MIT",
   "bugs": {
