@@ -1,7 +1,7 @@
 {
   "name": "@iqorlobanov/react-native-toast",
   "version": "0.4.3",
-  "description": "test",
+  "description": "Animated toast component for React Native.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
   "types": "lib/typescript/index.d.ts",
